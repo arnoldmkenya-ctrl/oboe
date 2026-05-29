@@ -20,7 +20,7 @@ Oboe is a C++ library which makes it easy to build high-performance audio apps o
 - [Migration guide for apps using OpenSL ES](docs/OpenSLESMigration.md)
 - [Frequently Asked Questions](docs/FAQ.md) (FAQ)
 - [Wiki](https://github.com/google/oboe/wiki)
-- [Our roadmap](https://github.com/google/oboe/milestones) - Vote on a feature/issue by adding a thumbs up to the first comment.
+- [Our   roadmap](https://github.com/google/oboe/milestones) - Vote on a feature/issue by adding a thumbs up to the first comment.
 
 ### Community
 - Reddit: [r/androidaudiodev](https://www.reddit.com/r/androidaudiodev/)
